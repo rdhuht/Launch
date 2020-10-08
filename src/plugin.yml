@@ -1,0 +1,8 @@
+main: me.rdhuht.Launch.Main
+name: Launch
+version: 1.0
+author: Jeremy Tsui
+
+commands:
+  launch:
+    aliases: lch
